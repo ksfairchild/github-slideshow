@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I am currently a junior at the University of Iowa
 Use the left arrow to go back!
